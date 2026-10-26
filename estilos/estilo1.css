@@ -1,0 +1,52 @@
+body {
+    background-image:url(../imagenes/imagen1.jpeg);
+}
+header {
+    background-color: azure;
+    padding: 5px;
+}
+
+footer {
+    background-color: azure;
+    padding: 5px;
+}
+
+nav {
+    background-color: yellow;
+    padding: 5px;
+    text-align: left;
+}
+
+img {
+    width: 100px;
+}
+
+.contenido {
+    background-color: rgb(199, 138, 255);
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+}
+
+section {
+    background-color: rgb(252, 211, 252);
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+}
+
+* {
+    text-align: center;
+    margin: 10px;
+}
+
+input {
+    background-color: aqua;
+    width: 80%;
+    height: 40px;
+}
+
+label {
+    background-color: red;
+}
